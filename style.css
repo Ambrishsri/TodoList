@@ -76,7 +76,7 @@ ul li:before{
     height: 23px;
     width: 23px;
     border-radius:50% ;
-    background-image: url(images/main2.png);
+    background-image: url(main2.png);
     background-size: cover;
     background-position: center;
     top: 11px;
@@ -88,7 +88,7 @@ ul li.checked{
 }
 
 ul li.checked:before{
-    background-image:url(images/main1.png) ;
+    background-image:url(main1.png) ;
 }
 ul li span{
     position: absolute;
